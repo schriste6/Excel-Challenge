@@ -30,4 +30,4 @@ Theater outcomes when launched in May, Jun, Jul are most successful.
 - What are some limitations of this dataset?   
     The data are older and don't reflect recent changes that might impact success.
 - What are some other possible tables and/or graphs that we could create?  
-    A mixed chart showing volumes and outcomes on one chart would  represent volumes.  
+    A mixed chart showing play volumes as bars and play outcomes as lines on a single chart would  represent a combination of variables. 
