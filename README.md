@@ -1,12 +1,16 @@
-# Kickstarting with Excel
+# Title: **Predicting a Play's Success or Failure Using Historical Data**  
 
-## Overview of Project
+## Overview of Project: 
+>Louise has been working on a play she'd like to bring to the public.  Many plays that came before have ranged from great success to big failure.  Louis is interested in using data to help plan next steps to launching a successful play.   
 
-### Purpose
+### Purpose:  
+>Determine if historical data can offer insight if funding and/or launch date predict successful interest from the public.
 
-## Analysis and Challenges
+## Analysis and Challenges:  
+>Historical data does suggest Theater successes based on month launched, but data is at least four-years old and doesn't account for recent trending.  
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date:  
+>May, Jun, Jul are most successful launch months, while failed successes are consistent.  
 
 ### Analysis of Outcomes Based on Goals
 
