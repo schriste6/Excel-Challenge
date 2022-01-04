@@ -17,11 +17,11 @@ Theater outcomes  launched in May, Jun, Jul are most successful.
 ![](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
->Theater outcomes with funding needs below $5000 have the highest success rates.  
+Theater outcomes with funding needs below $5000 have the highest success rates.  
 ![](/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
->More genre level detail might offer more insight into what might interest the public; drama, musical, comedy, etc. 
+More genre level detail might offer more insight into what might interest the public; drama, musical, comedy, etc. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?  
