@@ -10,11 +10,11 @@
 >Historical data does suggest Theater successes based on month launched, but data is at least four-years old and doesn't account for recent trending.  
 
 ### Analysis of Outcomes Based on Launch Date:  
->May, Jun, Jul are most successful launch months, while failed successes are consistent.  
+>Theater outcomes when launched in May, Jun, Jul are most successful.    
 ![](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
->Funding below $5000 have the highest success
+>Theater outcomes with funding needs below $5000 have the highest success rates.  
 ![](/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
@@ -22,9 +22,10 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+Funding needs and launch dates can influence success of a theater production.  
 - What can you conclude about the Outcomes based on Goals?
-
+Lower funding needs are more prevelant and have more success.
 - What are some limitations of this dataset?
-
+The data are older and don't reflect recent changes that might impact success.
 - What are some other possible tables and/or graphs that we could create?
+A mixed chart showing volumes and outcomes on one chart would  represent volumes.  
