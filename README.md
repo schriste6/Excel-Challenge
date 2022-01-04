@@ -1,13 +1,13 @@
 # Title: **Predicting a Play's Success or Failure Using Historical Data**  
-
+---
 ## Overview of Project: 
 Louise has been working on a play she'd like to bring to the public.  Many plays that came before have ranged from great success to big failure.  Louis is interested in using data to help plan next steps to launching a successful play.   
 
 Many factors play into success or failure and data used for decision making is a best practice.  Let's see how data can help Louise plan the outcome of her play.
-
+---
 ### Purpose:  
 Determine if historical data can offer insight if funding and/or launch date predict successful interest from the public.
-
+---
 ## Analysis and Challenges:  
 Historical data does suggest Theater has success based on month launched.  However, it is important to note that most recent data is from 2017, and cannot account for recent changes impacted by public interests and environmental changes.
 Additionally, smaller budget theater productions have the greatest volumes.  Volumes of Theater trend down as funding needs trend up.   
