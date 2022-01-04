@@ -25,10 +25,10 @@ Theater outcomes  launched in May, Jun, Jul are most successful.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?  
-    Funding needs and launch dates can influence success of a theater production.  
+    *Funding needs and launch dates can influence success of a theater production.*
 - What can you conclude about the Outcomes based on Goals?  
-    Lower funding needs are more prevelant and have more success.
+    *Lower funding needs are more prevelant and have more success.*
 - What are some limitations of this dataset?   
-    The data are older and don't reflect recent changes that might impact success.
+    *The data are older and don't reflect recent changes that might impact success.*
 - What are some other possible tables and/or graphs that we could create?  
-    A mixed chart showing play volumes as bars and play outcomes as lines on a single chart would  represent a combination of variables. 
+    *A mixed chart showing play volumes as bars and play outcomes as lines on a single chart would  represent a combination of variables.*
