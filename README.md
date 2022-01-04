@@ -3,6 +3,8 @@
 ## Overview of Project: 
 Louise has been working on a play she'd like to bring to the public.  Many plays that came before have ranged from great success to big failure.  Louis is interested in using data to help plan next steps to launching a successful play.   
 
+Many factors play into success or failure and data used for decision making is a best practice.  Let's see how data can help Louise plan the outcome of her play.
+
 ### Purpose:  
 Determine if historical data can offer insight if funding and/or launch date predict successful interest from the public.
 
