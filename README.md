@@ -9,10 +9,11 @@ Many factors play into success or failure and data used for decision making is a
 Determine if historical data can offer insight if funding and/or launch date predict successful interest from the public.
 
 ## Analysis and Challenges:  
-Historical data does suggest Theater successes based on month launched, but data is at least four-years old and doesn't account for recent trending.  
+Historical data does suggest Theater has success based on month launched.  However, it is important to note that most recent data is from 2017, and cannot account for recent changes impacted by public interests and environmental changes.
+Additionally, smaller budget theater productions have the greatest volumes.  Volumes of Theater trend down as funding needs trend up.   
 
 ### Analysis of Outcomes Based on Launch Date:  
-Theater outcomes when launched in May, Jun, Jul are most successful.    
+Theater outcomes  launched in May, Jun, Jul are most successful.    
 ![](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -20,7 +21,7 @@ Theater outcomes when launched in May, Jun, Jul are most successful.
 ![](/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-
+>More genre level detail might offer more insight into what might interest the public; drama, musical, comedy, etc. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?  
